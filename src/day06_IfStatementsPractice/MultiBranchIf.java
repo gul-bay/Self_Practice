@@ -1,6 +1,4 @@
-package day06_IfStatements;
-
-import java.sql.SQLOutput;
+package day06_IfStatementsPractice;
 
 public class MultiBranchIf {
 
@@ -21,7 +19,7 @@ public class MultiBranchIf {
         }
         System.out.println(result);
 
-        System.out.println(result);
+
 
 
 
